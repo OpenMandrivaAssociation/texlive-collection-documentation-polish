@@ -7,7 +7,7 @@
 Name:		texlive-collection-documentation-polish
 Epoch:		1
 Version:	20120224
-Release:	11
+Release:	12
 Summary:	Polish documentation
 Group:		Publishing
 URL:		http://tug.org/texlive
